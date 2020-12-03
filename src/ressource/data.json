@@ -1,0 +1,21 @@
+[{
+  "pseudo": "Vincent",
+  "details": [{
+    "points": 100,
+    "bonus": true
+  },
+  {
+    "points": 50,
+    "bonus": false
+  }]
+}, {
+  "pseudo": "Maxime",
+  "details": [{
+    "points": 100,
+    "bonus": true
+  },
+  {
+    "points": 150,
+    "bonus": false
+  }]
+}]

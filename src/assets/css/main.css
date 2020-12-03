@@ -1,0 +1,64 @@
+.card{
+  border-radius: .1875rem;
+  box-shadow: 0 1px 15px 1px rgba(39,39,39,.1);
+  margin-bottom: 20px;
+}
+.card-header{
+  background: none;
+  border: 0;
+  text-align : left;
+}
+.card-chart .card-header .card-category {
+  margin-bottom: 5px;
+}
+.card-category {
+  font-size: 1em;
+}
+.card-category, .category {
+  text-transform: capitalize;
+  font-weight: 400;
+  color: #9a9a9a;
+  font-size: .7142em;
+}
+.btn-round {
+  border-width: 1px;
+  border-radius: 30px;
+  padding-right: 23px;
+  padding-left: 23px;
+  border: 1px solid;
+  border-color: #888;
+  color: #888;
+}
+.btn.btn-icon, .navbar .navbar-nav>a.btn.btn-icon {
+  height: 2.375rem;
+  min-width: 2.375rem;
+  width: 2.375rem;
+  padding: 0;
+  overflow: hidden;
+  position: relative;
+  line-height: normal;
+  background-color: transparent;
+
+}
+.btn-primary {
+  color: #007bff !important;
+  border-color : #007bff !important;
+}
+.btn-primary:hover {
+  color: #054c97 !important;
+  border-color : #054c97 !important;
+}
+.btn-danger {
+  color: #dc3545 !important;
+  border-color : #dc3545 !important;
+}
+.btn-danger:hover {
+  color: #a80111 !important;
+  border-color : #a80111 !important;
+}
+
+
+svg {
+  padding: 3px 4px 0px 4px;
+  font-size: 30px !important;
+}
